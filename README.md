@@ -1,5 +1,4 @@
 # Getting and Cleaning Data
-Getting and Cleaning Data Course Project
 
 This repository is a Paulo Ayala submission to Getting and Cleaning Data course project. It has the instructions how to execute review on Human Activity recognition dataset.
 
